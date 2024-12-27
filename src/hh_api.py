@@ -23,4 +23,3 @@ class HHAPI:
                 f"Error fetching vacancies for company {company_id}: {response.status_code}"
             )
             return []
-
